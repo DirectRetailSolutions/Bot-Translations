@@ -1,0 +1,63 @@
+{
+    "blacklisted": "You are blacklisted from using this service.",
+
+    "errors/error": "Error",
+    "errors/no_guild": "Error: This guild has not been assigned a group/token.",
+    "errors/fail_login_roblox": "Failed to login to roblox account: ",
+    "errors/product_not_found": "Error: Product not found in our database.",
+    "error/unable_to_claim": "Error: Unable to claim ${s} in this server. Join the following server for this product: ",
+
+    "commands/botmsg/message_sent": "Sent Message",
+
+    "commands/claimblacklist/not_blacklisted": "User isn't blacklisted",
+    "commands/claimblacklist/unblacklisted_successfully": "Successfully unblacklisted ",
+    "commands/claimblacklist/already_blacklisted": "User is already blacklisted",
+    "commands/claimblacklist/blacklisted_successfully": "Successfully blacklisted ",
+
+    "commands/claimproducts/user_not_own": "You do not own: ${s}. If this is a mistake please make sure you have verified the correct account with bloxlink.",
+    "commands/claimproducts/roles_restored": "Note: If your buyer and files roles were missing, they have now been restored.",
+    "commands/claimproducts/success": "Your product has successfully been claimed, you can view your files at: <#${s}>. Please read <#1092902827032068176> if you have any problems using your product.",
+
+    "commands/execute": "Executed ",
+
+    "commands/getrank/unexpected_res_retry": "Did not recieve expected response from API. Try again later.",
+    "commands/getrank/unexpected_res": "Did not recieve expected response from API.",
+    "commands/getrank/failed_search": "Failed to find ${s}'s rank. ",
+
+    "commands/giveroles/unable_server": "Error: Unable to handle ${s} roles in this server.",
+    "commands/giveroles/success": "Gave <@${s}> roles: ",
+
+    "commmands/licenses/fail": "Failed fetch licenses: ${s}",
+    "commmands/licenses/whitelisted": "Whitelisted",
+    "commmands/licenses/unwhitelisted": "Not Whitelisted",
+    "commmands/licenses/results": "Results: ",
+
+    "commands/ping": "Websocket heartbeat: ",
+
+    "commands/pingrole/success": "Pinged ${s}",
+    "commands/pingrole/fail": "Role not found.",
+
+    "commands/rank/fail_change_member": "Failed to change ${s}'s rank to ${x}. Error: 403-B You do not have permission to manage this member.",
+    "commands/rank/fail_change_role": "Failed to change ${s}'s rank to ${x}. Error:  You do not have permission to assign this role.",
+    "commands/rank/404": "Failed to find ROBLOX rank, did you enter the correct rank name?",
+    "commands/rank/success": "Successfully changed ${s}'s rank to ${x}",
+    "commands/rank/api_fail": "Did not recieve expected response from API.",
+    "commands/rank/fail": "Failed to change ${s}'s rank to ${x}.",
+
+    "commands/removeroles/unable_server": "Error: Unable to handle ${s} roles in this server.",
+    "commands/removeroles/success": "Removed <@${s}> roles: ",
+
+    "commands/removewhitelist/unable_server": "Error: Unable to handle ${s} whitelist in this server.",
+    "commands/removewhitelist/unwhitelisted": "Successfully removed whitelist: ${s}",
+
+    "commands/robux": "Please purchase the following shirts(s) ${s} Run /claimproducts once you have purchased the shirt.",
+
+    "commands/shout/success": "Successfully changed the group shout to ${s}",
+    "commands/shout/error_api": "Did not recieve expected response from API.",
+    "commands/shout/fail": "Failed to change group shout to: ${s}",
+
+    "commands/stripe": "Please use the following link for your purchase:",
+
+    "commands/whitelist/unable_server": "Error: Unable to handle ${s} whitelist in this server.",
+    "commands/whitelist/success": "Successfully whitelisted ${s}"
+}
