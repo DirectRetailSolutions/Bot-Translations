@@ -14,7 +14,7 @@
     "commands/shout/error_api": "Unerwartete Antwort von der API erhalten.",
     "blacklisted": "Sie wurden von unserer Dienstleistung verwiesen.",
     "errors/error": "Fehler",
-    "errors/no_guild": "Fehler. Diesem Server wurde keine Gruppe/Token zugewiesen.",
+    "errors/no_guild": "Fehler: Diesem Server wurde keiner Gruppe/Token zugewiesen.",
     "errors/fail_login_roblox": "Einloggen in das Roblox-Konto fehlgeschlagen: ",
     "errors/product_not_found": "Fehler: Produkt nicht in der Datenbank gefunden.",
     "commands/botmsg/message_sent": "Nachricht gesendet",
